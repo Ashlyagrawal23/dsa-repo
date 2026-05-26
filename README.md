@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
+| [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
