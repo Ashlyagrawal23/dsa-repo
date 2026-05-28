@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
 ## Hash Table
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0008-string-to-integer-atoi) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
