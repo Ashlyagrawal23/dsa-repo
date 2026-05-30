@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0072-edit-distance) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0004-median-of-two-sorted-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
