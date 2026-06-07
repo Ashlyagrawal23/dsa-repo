@@ -8,19 +8,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
