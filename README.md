@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0287-find-the-duplicate-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
