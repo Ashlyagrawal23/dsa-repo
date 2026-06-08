@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0066-plus-one) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/2965-find-missing-and-repeated-values) |
 ## String
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0072-edit-distance) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ashlyagrawal23/dsa-repo/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
