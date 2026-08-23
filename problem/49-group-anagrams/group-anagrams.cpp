@@ -1,18 +1,32 @@
 class Solution {
- public:
-  vector<vector<string>> groupAnagrams(vector<string>& strs) {
-    vector<vector<string>> ans;
-    unordered_map<string, vector<string>> keyToAnagrams;
+public:
+    vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        map<string, vector<string>> mp;
+        // key.  value
+        // aet.   ["ate", tea , eat]
+        // ant.    [tan , nat]
+        // abt     [bat]
 
-    for (const string& str : strs) {
-      string key = str;
-      ranges::sort(key);
-      keyToAnagrams[key].push_back(str);
+        for(int i = 0; i<strs.size();i++){
+            string temp = strs[i];
+            sort(strs[i].begin(), strs[i].end());
+
+            mp[strs[i]].push_back(temp);
+
+            
+            
+        }
+
+        vector<vector<string>> ans;
+
+        for(auto it : mp){
+            ans.push_back(it.second);
+        }
+
+        return ans;
+
+
+
+
     }
-
-    for (const auto& [_, anagrams] : keyToAnagrams)
-      ans.push_back(anagrams);
-
-    return ans;
-  }
 };
